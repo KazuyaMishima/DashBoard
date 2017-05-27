@@ -1,2 +1,2 @@
 # DashBoard
-plantilla de un administrador
+plantilla de un administrador del sistema
